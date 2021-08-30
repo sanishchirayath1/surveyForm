@@ -1,0 +1,32 @@
+body {
+  background-image: url(/pic.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+  margin: 0;
+}
+main {
+  height:100vh;
+}
+h1 {
+    margin: 0;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+.wrapper {
+  text-align: left;
+  background-color:rgb(255,255,255,0.8);
+  max-width: 1000px;
+  margin: 0px auto;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  padding: 10px 25px;
+  
+}
+.form-group {
+  display: block;
+}
+
